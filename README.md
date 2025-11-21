@@ -3,9 +3,9 @@
 README - REPLICATION PACKAGE
 --------------------------------------------------------------------------------
 
-Title:   The Tailoring Premium: How AI Design Unlocks Student Engagement and Learning
-Authors: Jaime Polanco-Jiménez & Kristof De Witte
-Date:    November 20, 2025
+> Title:   The Tailoring Premium: How AI Design Unlocks Student Engagement and Learning
+> Authors: Jaime Polanco-Jiménez & Kristof De Witte
+> Date:    November 20, 2025
 
 --------------------------------------------------------------------------------
 1. OVERVIEW
