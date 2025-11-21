@@ -35,22 +35,27 @@ output the exact estimates reported in the paper.
 The package is organized as follows:
 
 The-Tailoring-Premium/
-│
-├── Data/
-│   └── minimal_dataset.csv        # The de-identified analysis file
-│
-├── Scripts/
-│   ├── 01_main_analysis.R         # Replicates Tables 3, 4, and 5
-│   ├── 02_imputation_sensitivity.R# Replicates Figure 2 (Sensitivity Plots)
-│   ├── 03_lee_bounds_estimation.R # Replicates Lee Bounds estimates
-│   │
-│   └── functions/
-│       └── lee_bounds.R           # Custom function for Lee (2009) bounds
-│
-├── Output/                        # Empty folder where results will be saved
-│   └── Graphs/                    # Generated figures will appear here
-│
-└── README.txt                     # This file
+|
++--- Data/
+|    |
+|    +--- minimal_dataset.csv        # The de-identified analysis file
+|
++--- Scripts/
+|    |
+|    +--- 01_main_analysis.R         # Replicates Tables 3, 4, and 5
+|    +--- 02_imputation_sensitivity.R# Replicates Figure 2 (Sensitivity Plots)
+|    +--- 03_lee_bounds_estimation.R # Replicates Lee Bounds estimates
+|    |
+|    +--- functions/
+|         |
+|         +--- lee_bounds.R           # Custom function for Lee (2009) bounds
+|
++--- Output/                        # Empty folder where results will be saved
+|    |
+|    +--- Graphs/                    # Generated figures will appear here
+|
++--- README.txt                     # This file
+
 
 --------------------------------------------------------------------------------
 3. SOFTWARE REQUIREMENTS
