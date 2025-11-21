@@ -35,6 +35,7 @@ output the exact estimates reported in the paper.
 The package is organized as follows:
 
 The-Tailoring-Premium/
+    
     Data/
         minimal_dataset.csv
 
