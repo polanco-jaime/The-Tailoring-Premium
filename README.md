@@ -153,6 +153,8 @@ File: Data/minimal_dataset.csv
 
 For questions regarding this code or data, please contact:
 Jaime Polanco-Jiménez
+
 Leuven Economics of Education Research, KU Leuven
 Departamente de Economia, Pontificia Universidad Javeriana
+
 Email: jaime.polancojimenez@kuleuven.be
