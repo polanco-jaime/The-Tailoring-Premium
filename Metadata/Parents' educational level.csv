@@ -1,0 +1,34 @@
+"group","fraction","treatment_group","main","color","alpha","label"
+"Higher education degree 
+or university degree",0.710860366713681,"1","Parents' educational level
+Control Group","skyblue",1,"Control Group"
+"I don't know",0.0860366713681241,"1","Parents' educational level
+Control Group","skyblue",1,"Control Group"
+"No secondary education/high 
+school not completed",0.0267983074753173,"1","Parents' educational level
+Control Group","skyblue",1,"Control Group"
+"Secondary education diploma/high 
+school diploma",0.176304654442877,"1","Parents' educational level
+Control Group","skyblue",1,"Control Group"
+"Higher education degree 
+or university degree",0.702479338842975,"2","Parents' educational level
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"I don't know",0.103305785123967,"2","Parents' educational level
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"No secondary education/high 
+school not completed",0.0234159779614325,"2","Parents' educational level
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Secondary education diploma/high 
+school diploma",0.170798898071625,"2","Parents' educational level
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Higher education degree 
+or university degree",0.69208211143695,"3","Parents' educational level
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"I don't know",0.108504398826979,"3","Parents' educational level
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"No secondary education/high 
+school not completed",0.0366568914956012,"3","Parents' educational level
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Secondary education diploma/high 
+school diploma",0.162756598240469,"3","Parents' educational level
+Tailored AI","lightgreen",0.5,"Tailored AI"

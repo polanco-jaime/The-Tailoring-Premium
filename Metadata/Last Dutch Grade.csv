@@ -1,0 +1,31 @@
+"group","fraction","treatment_group","main","color","alpha","label"
+"50% to 59%",0.139633286318759,"1","Last Dutch Grade
+Control Group","skyblue",1,"Control Group"
+"60% to 69%",0.394922425952045,"1","Last Dutch Grade
+Control Group","skyblue",1,"Control Group"
+"70% to 79%",0.352609308885755,"1","Last Dutch Grade
+Control Group","skyblue",1,"Control Group"
+"Over 80%",0.0860366713681241,"1","Last Dutch Grade
+Control Group","skyblue",1,"Control Group"
+"Under 50%",0.0267983074753173,"1","Last Dutch Grade
+Control Group","skyblue",1,"Control Group"
+"50% to 59%",0.129476584022039,"2","Last Dutch Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"60% to 69%",0.426997245179063,"2","Last Dutch Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"70% to 79%",0.31129476584022,"2","Last Dutch Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Over 80%",0.111570247933884,"2","Last Dutch Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Under 50%",0.0206611570247934,"2","Last Dutch Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"50% to 59%",0.114369501466276,"3","Last Dutch Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"60% to 69%",0.419354838709677,"3","Last Dutch Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"70% to 79%",0.347507331378299,"3","Last Dutch Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Over 80%",0.092375366568915,"3","Last Dutch Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Under 50%",0.0263929618768328,"3","Last Dutch Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"

@@ -1,0 +1,29 @@
+"group","fraction","treatment_group","main","color","alpha","label"
+"Never",0.115655853314528,"1","Frequency of Asking Teachers for Help
+Control Group","skyblue",1,"Control Group"
+"Often",0.078984485190409,"1","Frequency of Asking Teachers for Help
+Control Group","skyblue",1,"Control Group"
+"Rarely",0.389280677009873,"1","Frequency of Asking Teachers for Help
+Control Group","skyblue",1,"Control Group"
+"Sometimes",0.41607898448519,"1","Frequency of Asking Teachers for Help
+Control Group","skyblue",1,"Control Group"
+"Always",0.00137741046831956,"2","Frequency of Asking Teachers for Help
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Never",0.118457300275482,"2","Frequency of Asking Teachers for Help
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Often",0.0798898071625344,"2","Frequency of Asking Teachers for Help
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Rarely",0.393939393939394,"2","Frequency of Asking Teachers for Help
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Sometimes",0.40633608815427,"2","Frequency of Asking Teachers for Help
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Always",0.00146627565982405,"3","Frequency of Asking Teachers for Help
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Never",0.13049853372434,"3","Frequency of Asking Teachers for Help
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Often",0.0601173020527859,"3","Frequency of Asking Teachers for Help
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Rarely",0.372434017595308,"3","Frequency of Asking Teachers for Help
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Sometimes",0.435483870967742,"3","Frequency of Asking Teachers for Help
+Tailored AI","lightgreen",0.5,"Tailored AI"

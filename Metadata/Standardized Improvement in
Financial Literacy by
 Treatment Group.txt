@@ -1,0 +1,86 @@
+Analysis Name: Standardized Improvement in
+Financial Literacy by
+ Treatment Group
+Score Column: gained_tax_learning
+Group Column: t0_Q1
+Descriptive Statistics (LaTeX Table):
+1 \begin{tabular}{lccc}
+Descriptive Statistics (LaTeX Table):
+2 \hline
+Descriptive Statistics (LaTeX Table):
+3 Group & Mean & Standard Deviation & N Participants \\
+Descriptive Statistics (LaTeX Table):
+4 \hline
+Descriptive Statistics (LaTeX Table):
+5 Control Group: Traditional Path (TP) & 0.28 & 0.28 & 151 \\
+Descriptive Statistics (LaTeX Table):
+6 Treatment: Reduced TP + AI & 0.33 & 0.28 & 135 \\
+Descriptive Statistics (LaTeX Table):
+7 Treatment: Tailored AI in the Belgian Tax System & 0.31 & 0.25 & 216 \\
+Descriptive Statistics (LaTeX Table):
+8 \hline
+Descriptive Statistics (LaTeX Table):
+9 \end{tabular}
+
+Linear Model Summary:
+1 
+
+Linear Model Summary:
+2 Call:
+
+Linear Model Summary:
+3 lm(formula = as.formula(paste0(score_col, "~ factor(", group_col, 
+
+Linear Model Summary:
+4     ")")), data = data)
+
+Linear Model Summary:
+5 
+
+Linear Model Summary:
+6 Residuals:
+
+Linear Model Summary:
+7      Min       1Q   Median       3Q      Max 
+
+Linear Model Summary:
+8 -0.73413 -0.16270 -0.01984  0.15043  0.72185 
+
+Linear Model Summary:
+9 
+
+Linear Model Summary:
+10 Coefficients:
+
+Linear Model Summary:
+11                Estimate Std. Error t value            Pr(>|t|)    
+
+Linear Model Summary:
+12 (Intercept)     0.27815    0.02170  12.817 <0.0000000000000002 ***
+
+Linear Model Summary:
+13 factor(t0_Q1)2  0.04778    0.03159   1.513               0.131    
+
+Linear Model Summary:
+14 factor(t0_Q1)3  0.02741    0.02829   0.969               0.333    
+
+Linear Model Summary:
+15 ---
+
+Linear Model Summary:
+16 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Linear Model Summary:
+17 
+
+Linear Model Summary:
+18 Residual standard error: 0.2667 on 499 degrees of freedom
+
+Linear Model Summary:
+19 Multiple R-squared:  0.004646,	Adjusted R-squared:  0.0006564 
+
+Linear Model Summary:
+20 F-statistic: 1.165 on 2 and 499 DF,  p-value: 0.3129
+
+Linear Model Summary:
+21 

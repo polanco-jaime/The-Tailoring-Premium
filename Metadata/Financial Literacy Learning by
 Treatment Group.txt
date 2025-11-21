@@ -1,0 +1,69 @@
+Analysis Name: Financial Literacy Learning by
+ Treatment Group
+Score Column: Score
+Group Column: Q1
+Descriptive Statistics (LaTeX Table):
+ [1] "\\begin{tabular}{lc}\n\\hline\nGroup Score \\\\\n\\hline\nControl Group: Traditional Path (TP) 0.61 (0.27) \\\\\nTreatment: Reduced TP + AI 0.67 (0.28) \\\\\nTreatment: Tailored AI in the Belgian Tax System 0.65 (0.25) \\\\\n\\hline\n\\end{tabular}"
+
+Linear Model Summary:
+1 
+
+Linear Model Summary:
+2 Call:
+
+Linear Model Summary:
+3 lm(formula = as.formula(paste0(score_col, "~ factor(", group_col, 
+
+Linear Model Summary:
+4     ")")), data = data)
+
+Linear Model Summary:
+5 
+
+Linear Model Summary:
+6 Residuals:
+
+Linear Model Summary:
+7      Min       1Q   Median       3Q      Max 
+
+Linear Model Summary:
+8 -0.67433 -0.17916  0.06385  0.20671  0.39227 
+
+Linear Model Summary:
+9 
+
+Linear Model Summary:
+10 Coefficients:
+
+Linear Model Summary:
+11             Estimate Std. Error t value            Pr(>|t|)    
+
+Linear Model Summary:
+12 (Intercept)  0.60773    0.01963  30.966 <0.0000000000000002 ***
+
+Linear Model Summary:
+13 factor(Q1)2  0.06659    0.02954   2.254              0.0246 *  
+
+Linear Model Summary:
+14 factor(Q1)3  0.04270    0.02548   1.676              0.0943 .  
+
+Linear Model Summary:
+15 ---
+
+Linear Model Summary:
+16 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Linear Model Summary:
+17 
+
+Linear Model Summary:
+18 Residual standard error: 0.264 on 585 degrees of freedom
+
+Linear Model Summary:
+19 Multiple R-squared:  0.009232,	Adjusted R-squared:  0.005844 
+
+Linear Model Summary:
+20 F-statistic: 2.725 on 2 and 585 DF,  p-value: 0.06635
+
+Linear Model Summary:
+21 

@@ -1,0 +1,8 @@
+"group"	"fraction"	"counts"
+"Control Group:
+Traditional Path (TP)"	0.308441558441558	190
+"Treatment:
+Reduced TP + AI"	0.272727272727273	168
+"Treatment:
+Tailored AI in the 
+Belgian Tax System"	0.418831168831169	258

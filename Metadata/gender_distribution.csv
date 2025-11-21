@@ -1,0 +1,13 @@
+"group","fraction","treatment_group","main","color","alpha","label"
+"Boy",0.492877492877493,"1","Gender Distribution by Groups
+Control Group","skyblue",1,"Control Group"
+"Girl",0.507122507122507,"1","Gender Distribution by Groups
+Control Group","skyblue",1,"Control Group"
+"Boy",0.506944444444444,"2","Gender Distribution by Groups
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Girl",0.493055555555556,"2","Gender Distribution by Groups
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Boy",0.530460624071322,"3","Gender Distribution by Groups
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Girl",0.469539375928678,"3","Gender Distribution by Groups
+Tailored AI","lightgreen",0.5,"Tailored AI"

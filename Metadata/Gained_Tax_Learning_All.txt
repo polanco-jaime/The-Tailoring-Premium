@@ -1,0 +1,84 @@
+Analysis Name: Gained_Tax_Learning_All
+Score Column: gained_tax_learning
+Group Column: t0_Q1
+Descriptive Statistics (LaTeX Table):
+1 \begin{tabular}{lccc}
+Descriptive Statistics (LaTeX Table):
+2 \hline
+Descriptive Statistics (LaTeX Table):
+3 Group & Mean & Standard Deviation & N Participants \\
+Descriptive Statistics (LaTeX Table):
+4 \hline
+Descriptive Statistics (LaTeX Table):
+5 Control Group: Traditional Path (TP) & 0.26 & 0.26 & 62 \\
+Descriptive Statistics (LaTeX Table):
+6 Treatment: Reduced TP + AI & 0.29 & 0.25 & 48 \\
+Descriptive Statistics (LaTeX Table):
+7 Treatment: Tailored AI in the Belgian Tax System & 0.31 & 0.25 & 113 \\
+Descriptive Statistics (LaTeX Table):
+8 \hline
+Descriptive Statistics (LaTeX Table):
+9 \end{tabular}
+
+Linear Model Summary:
+1 
+
+Linear Model Summary:
+2 Call:
+
+Linear Model Summary:
+3 lm(formula = as.formula(paste0(score_col, "~ factor(", group_col, 
+
+Linear Model Summary:
+4     ")")), data = data)
+
+Linear Model Summary:
+5 
+
+Linear Model Summary:
+6 Residuals:
+
+Linear Model Summary:
+7      Min       1Q   Median       3Q      Max 
+
+Linear Model Summary:
+8 -0.73831 -0.16688 -0.02402  0.13690  0.73733 
+
+Linear Model Summary:
+9 
+
+Linear Model Summary:
+10 Coefficients:
+
+Linear Model Summary:
+11                Estimate Std. Error t value           Pr(>|t|)    
+
+Linear Model Summary:
+12 (Intercept)     0.26267    0.03227   8.139 0.0000000000000293 ***
+
+Linear Model Summary:
+13 factor(t0_Q1)2  0.02899    0.04886   0.593              0.553    
+
+Linear Model Summary:
+14 factor(t0_Q1)3  0.04706    0.04016   1.172              0.243    
+
+Linear Model Summary:
+15 ---
+
+Linear Model Summary:
+16 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Linear Model Summary:
+17 
+
+Linear Model Summary:
+18 Residual standard error: 0.2541 on 220 degrees of freedom
+
+Linear Model Summary:
+19 Multiple R-squared:  0.006208,	Adjusted R-squared:  -0.002827 
+
+Linear Model Summary:
+20 F-statistic: 0.6871 on 2 and 220 DF,  p-value: 0.5041
+
+Linear Model Summary:
+21 

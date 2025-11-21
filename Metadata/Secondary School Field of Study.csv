@@ -1,0 +1,49 @@
+"group","fraction","treatment_group","main","color","alpha","label"
+"Arts & Sports",0.0127659574468085,"1","Secondary School Field of Study
+Control Group","skyblue",1,"Control Group"
+"Care & Social 
+Studies",0.099290780141844,"1","Secondary School Field of Study
+Control Group","skyblue",1,"Control Group"
+"Economics & Business",0.198581560283688,"1","Secondary School Field of Study
+Control Group","skyblue",1,"Control Group"
+"Humanities & Languages",0.226950354609929,"1","Secondary School Field of Study
+Control Group","skyblue",1,"Control Group"
+"Other/Unspecified",0.0638297872340425,"1","Secondary School Field of Study
+Control Group","skyblue",1,"Control Group"
+"STEM",0.387234042553191,"1","Secondary School Field of Study
+Control Group","skyblue",1,"Control Group"
+"Vocational & Applied 
+Skills",0.0113475177304965,"1","Secondary School Field of Study
+Control Group","skyblue",1,"Control Group"
+"Arts & Sports",0.0180305131761442,"2","Secondary School Field of Study
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Care & Social 
+Studies",0.0790568654646325,"2","Secondary School Field of Study
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Economics & Business",0.21497919556172,"2","Secondary School Field of Study
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Humanities & Languages",0.196948682385576,"2","Secondary School Field of Study
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Other/Unspecified",0.0638002773925104,"2","Secondary School Field of Study
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"STEM",0.414701803051318,"2","Secondary School Field of Study
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Vocational & Applied 
+Skills",0.0124826629680999,"2","Secondary School Field of Study
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Arts & Sports",0.0103244837758112,"3","Secondary School Field of Study
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Care & Social 
+Studies",0.0988200589970502,"3","Secondary School Field of Study
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Economics & Business",0.200589970501475,"3","Secondary School Field of Study
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Humanities & Languages",0.20353982300885,"3","Secondary School Field of Study
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Other/Unspecified",0.0530973451327434,"3","Secondary School Field of Study
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"STEM",0.420353982300885,"3","Secondary School Field of Study
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Vocational & Applied 
+Skills",0.0132743362831858,"3","Secondary School Field of Study
+Tailored AI","lightgreen",0.5,"Tailored AI"

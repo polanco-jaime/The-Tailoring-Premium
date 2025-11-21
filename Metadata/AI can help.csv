@@ -1,0 +1,31 @@
+"group","fraction","treatment_group","main","color","alpha","label"
+"Agree",0.404526166902405,"1","I expect AI can help me learn about taxes.
+Control Group","skyblue",1,"Control Group"
+"Disagree",0.134370579915134,"1","I expect AI can help me learn about taxes.
+Control Group","skyblue",1,"Control Group"
+"Neutral",0.263083451202263,"1","I expect AI can help me learn about taxes.
+Control Group","skyblue",1,"Control Group"
+"Strongly Agree",0.145685997171146,"1","I expect AI can help me learn about taxes.
+Control Group","skyblue",1,"Control Group"
+"Strongly Disagree",0.0523338048090523,"1","I expect AI can help me learn about taxes.
+Control Group","skyblue",1,"Control Group"
+"Agree",0.427777777777778,"2","I expect AI can help me learn about taxes.
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Disagree",0.108333333333333,"2","I expect AI can help me learn about taxes.
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Neutral",0.288888888888889,"2","I expect AI can help me learn about taxes.
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Strongly Agree",0.147222222222222,"2","I expect AI can help me learn about taxes.
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Strongly Disagree",0.0277777777777778,"2","I expect AI can help me learn about taxes.
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Agree",0.40058910162003,"3","I expect AI can help me learn about taxes.
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Disagree",0.108983799705449,"3","I expect AI can help me learn about taxes.
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Neutral",0.309278350515464,"3","I expect AI can help me learn about taxes.
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Strongly Agree",0.151693667157585,"3","I expect AI can help me learn about taxes.
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Strongly Disagree",0.0294550810014728,"3","I expect AI can help me learn about taxes.
+Tailored AI","lightgreen",0.5,"Tailored AI"

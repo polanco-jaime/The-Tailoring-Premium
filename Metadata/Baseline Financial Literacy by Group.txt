@@ -1,0 +1,87 @@
+Analysis Name: Baseline Financial Literacy by Group
+Score Column: Score
+Group Column: Q1
+Descriptive Statistics (LaTeX Table):
+1 \begin{tabular}{lccc}
+Descriptive Statistics (LaTeX Table):
+2 \hline
+Descriptive Statistics (LaTeX Table):
+3 Group & Mean & Standard Deviation & N Participants \\
+Descriptive Statistics (LaTeX Table):
+4 \hline
+Descriptive Statistics (LaTeX Table):
+5 Control Group: Traditional Path (TP) & 0.35 & 0.24 & 726 \\
+Descriptive Statistics (LaTeX Table):
+6 Treatment: Reduced TP + AI & 0.34 & 0.25 & 786 \\
+Descriptive Statistics (LaTeX Table):
+7 Treatment: Tailored AI in the Belgian Tax System & 0.34 & 0.24 & 724 \\
+Descriptive Statistics (LaTeX Table):
+8 \hline
+Descriptive Statistics (LaTeX Table):
+9 \end{tabular}
+
+Linear Model Summary:
+1 
+
+Linear Model Summary:
+2 Call:
+
+Linear Model Summary:
+3 lm(formula = as.formula(paste0(score_col, "~ factor(", group_col, 
+
+Linear Model Summary:
+4     ")")), data = data)
+
+Linear Model Summary:
+5 
+
+Linear Model Summary:
+6 Residuals:
+
+Linear Model Summary:
+7      Min       1Q   Median       3Q      Max 
+
+Linear Model Summary:
+8 -0.34671 -0.19791 -0.05216  0.22471  0.51927 
+
+Linear Model Summary:
+9 
+
+Linear Model Summary:
+10 Coefficients:
+
+Linear Model Summary:
+11              Estimate Std. Error t value            Pr(>|t|)    
+
+Linear Model Summary:
+12 (Intercept)  0.346714   0.009031  38.390 <0.0000000000000002 ***
+
+Linear Model Summary:
+13 factor(Q1)2 -0.008837   0.012526  -0.705               0.481    
+
+Linear Model Summary:
+14 factor(Q1)3 -0.005948   0.012781  -0.465               0.642    
+
+Linear Model Summary:
+15 ---
+
+Linear Model Summary:
+16 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Linear Model Summary:
+17 
+
+Linear Model Summary:
+18 Residual standard error: 0.2433 on 2233 degrees of freedom
+
+Linear Model Summary:
+19   (2 observations deleted due to missingness)
+
+Linear Model Summary:
+20 Multiple R-squared:  0.0002296,	Adjusted R-squared:  -0.0006658 
+
+Linear Model Summary:
+21 F-statistic: 0.2564 on 2 and 2233 DF,  p-value: 0.7738
+
+Linear Model Summary:
+22 

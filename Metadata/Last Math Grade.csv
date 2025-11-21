@@ -1,0 +1,31 @@
+"group","fraction","treatment_group","main","color","alpha","label"
+"50% to 59%",0.215796897038082,"1","Last Math Grade
+Control Group","skyblue",1,"Control Group"
+"60% to 69%",0.31311706629055,"1","Last Math Grade
+Control Group","skyblue",1,"Control Group"
+"70% to 79%",0.239774330042313,"1","Last Math Grade
+Control Group","skyblue",1,"Control Group"
+"Over 80%",0.162200282087447,"1","Last Math Grade
+Control Group","skyblue",1,"Control Group"
+"Under 50%",0.0691114245416079,"1","Last Math Grade
+Control Group","skyblue",1,"Control Group"
+"50% to 59%",0.223140495867769,"2","Last Math Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"60% to 69%",0.326446280991736,"2","Last Math Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"70% to 79%",0.242424242424242,"2","Last Math Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Over 80%",0.144628099173554,"2","Last Math Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Under 50%",0.0633608815426997,"2","Last Math Grade
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"50% to 59%",0.206744868035191,"3","Last Math Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"60% to 69%",0.312316715542522,"3","Last Math Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"70% to 79%",0.266862170087977,"3","Last Math Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Over 80%",0.13049853372434,"3","Last Math Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Under 50%",0.0835777126099707,"3","Last Math Grade
+Tailored AI","lightgreen",0.5,"Tailored AI"

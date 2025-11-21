@@ -1,0 +1,25 @@
+"group","fraction","treatment_group","main","color","alpha","label"
+"0",0.190409026798307,"1","Siblings at home
+Control Group","skyblue",1,"Control Group"
+"1",0.482369534555712,"1","Siblings at home
+Control Group","skyblue",1,"Control Group"
+"2",0.205923836389281,"1","Siblings at home
+Control Group","skyblue",1,"Control Group"
+"3 or more",0.1212976022567,"1","Siblings at home
+Control Group","skyblue",1,"Control Group"
+"0",0.205234159779614,"2","Siblings at home
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"1",0.435261707988981,"2","Siblings at home
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"2",0.235537190082645,"2","Siblings at home
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"3 or more",0.12396694214876,"2","Siblings at home
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"0",0.167155425219941,"3","Siblings at home
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"1",0.486803519061584,"3","Siblings at home
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"2",0.222873900293255,"3","Siblings at home
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"3 or more",0.12316715542522,"3","Siblings at home
+Tailored AI","lightgreen",0.5,"Tailored AI"

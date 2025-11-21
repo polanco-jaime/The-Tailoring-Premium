@@ -1,0 +1,86 @@
+Analysis Name: Standardized Improvement in
+Financial Literacy
+ (Teacher Shortages)
+Score Column: gained_tax_learning
+Group Column: t0_Q1
+Descriptive Statistics (LaTeX Table):
+1 \begin{tabular}{lccc}
+Descriptive Statistics (LaTeX Table):
+2 \hline
+Descriptive Statistics (LaTeX Table):
+3 Group & Mean & Standard Deviation & N Participants \\
+Descriptive Statistics (LaTeX Table):
+4 \hline
+Descriptive Statistics (LaTeX Table):
+5 Control Group: Traditional Path (TP) & 0.26 & 0.27 & 20 \\
+Descriptive Statistics (LaTeX Table):
+6 Treatment: Reduced TP + AI & 0.25 & 0.27 & 20 \\
+Descriptive Statistics (LaTeX Table):
+7 Treatment: Tailored AI in the Belgian Tax System & 0.35 & 0.22 & 36 \\
+Descriptive Statistics (LaTeX Table):
+8 \hline
+Descriptive Statistics (LaTeX Table):
+9 \end{tabular}
+
+Linear Model Summary:
+1 
+
+Linear Model Summary:
+2 Call:
+
+Linear Model Summary:
+3 lm(formula = as.formula(paste0(score_col, "~ factor(", group_col, 
+
+Linear Model Summary:
+4     ")")), data = data)
+
+Linear Model Summary:
+5 
+
+Linear Model Summary:
+6 Residuals:
+
+Linear Model Summary:
+7      Min       1Q   Median       3Q      Max 
+
+Linear Model Summary:
+8 -0.40714 -0.21032 -0.06746  0.17857  0.60714 
+
+Linear Model Summary:
+9 
+
+Linear Model Summary:
+10 Coefficients:
+
+Linear Model Summary:
+11                Estimate Std. Error t value   Pr(>|t|)    
+
+Linear Model Summary:
+12 (Intercept)     0.26429    0.05511   4.796 0.00000834 ***
+
+Linear Model Summary:
+13 factor(t0_Q1)2 -0.01429    0.07794  -0.183      0.855    
+
+Linear Model Summary:
+14 factor(t0_Q1)3  0.08889    0.06873   1.293      0.200    
+
+Linear Model Summary:
+15 ---
+
+Linear Model Summary:
+16 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Linear Model Summary:
+17 
+
+Linear Model Summary:
+18 Residual standard error: 0.2465 on 73 degrees of freedom
+
+Linear Model Summary:
+19 Multiple R-squared:  0.03834,	Adjusted R-squared:  0.01199 
+
+Linear Model Summary:
+20 F-statistic: 1.455 on 2 and 73 DF,  p-value: 0.2401
+
+Linear Model Summary:
+21 

@@ -1,0 +1,25 @@
+"group","fraction","treatment_group","main","color","alpha","label"
+"Activist",0.282087447108604,"1","Honey and Mumford's Learning Styles
+Control Group","skyblue",1,"Control Group"
+"Pragmatist",0.265162200282087,"1","Honey and Mumford's Learning Styles
+Control Group","skyblue",1,"Control Group"
+"Reflector",0.193229901269394,"1","Honey and Mumford's Learning Styles
+Control Group","skyblue",1,"Control Group"
+"Theorist",0.259520451339915,"1","Honey and Mumford's Learning Styles
+Control Group","skyblue",1,"Control Group"
+"Activist",0.309917355371901,"2","Honey and Mumford's Learning Styles
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Pragmatist",0.239669421487603,"2","Honey and Mumford's Learning Styles
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Reflector",0.18732782369146,"2","Honey and Mumford's Learning Styles
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Theorist",0.263085399449036,"2","Honey and Mumford's Learning Styles
+AI+Reduced Path","coral",0.7,"AI+Reduced Path"
+"Activist",0.312316715542522,"3","Honey and Mumford's Learning Styles
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Pragmatist",0.250733137829912,"3","Honey and Mumford's Learning Styles
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Reflector",0.225806451612903,"3","Honey and Mumford's Learning Styles
+Tailored AI","lightgreen",0.5,"Tailored AI"
+"Theorist",0.211143695014663,"3","Honey and Mumford's Learning Styles
+Tailored AI","lightgreen",0.5,"Tailored AI"

@@ -1,0 +1,86 @@
+Analysis Name: Distribution of Standardized Improvement in
+                     Financial Literacy by
+ Treatment Group
+Score Column: gained_tax_learning
+Group Column: t0_Q1
+Descriptive Statistics (LaTeX Table):
+1 \begin{tabular}{lccc}
+Descriptive Statistics (LaTeX Table):
+2 \hline
+Descriptive Statistics (LaTeX Table):
+3 Group & Mean & Standard Deviation & N Participants \\
+Descriptive Statistics (LaTeX Table):
+4 \hline
+Descriptive Statistics (LaTeX Table):
+5 Control Group: Traditional Path (TP) & 0.26 & 0.30 & 179 \\
+Descriptive Statistics (LaTeX Table):
+6 Treatment: Reduced TP + AI & 0.31 & 0.29 & 147 \\
+Descriptive Statistics (LaTeX Table):
+7 Treatment: Tailored AI in the Belgian Tax System & 0.30 & 0.26 & 265 \\
+Descriptive Statistics (LaTeX Table):
+8 \hline
+Descriptive Statistics (LaTeX Table):
+9 \end{tabular}
+
+Linear Model Summary:
+1 
+
+Linear Model Summary:
+2 Call:
+
+Linear Model Summary:
+3 lm(formula = as.formula(paste0(score_col, "~ factor(", group_col, 
+
+Linear Model Summary:
+4     ")")), data = data)
+
+Linear Model Summary:
+5 
+
+Linear Model Summary:
+6 Residuals:
+
+Linear Model Summary:
+7      Min       1Q   Median       3Q      Max 
+
+Linear Model Summary:
+8 -1.01294 -0.16910 -0.01294  0.17239  0.74381 
+
+Linear Model Summary:
+9 
+
+Linear Model Summary:
+10 Coefficients:
+
+Linear Model Summary:
+11                Estimate Std. Error t value            Pr(>|t|)    
+
+Linear Model Summary:
+12 (Intercept)     0.25619    0.02111  12.133 <0.0000000000000002 ***
+
+Linear Model Summary:
+13 factor(t0_Q1)2  0.05577    0.03144   1.774              0.0766 .  
+
+Linear Model Summary:
+14 factor(t0_Q1)3  0.04247    0.02733   1.554              0.1208    
+
+Linear Model Summary:
+15 ---
+
+Linear Model Summary:
+16 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Linear Model Summary:
+17 
+
+Linear Model Summary:
+18 Residual standard error: 0.2825 on 588 degrees of freedom
+
+Linear Model Summary:
+19 Multiple R-squared:  0.006245,	Adjusted R-squared:  0.002865 
+
+Linear Model Summary:
+20 F-statistic: 1.848 on 2 and 588 DF,  p-value: 0.1585
+
+Linear Model Summary:
+21 
